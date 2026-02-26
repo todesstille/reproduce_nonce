@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": null,
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "from": "ab7821d16a08756496dd52694e5de49ea95853b5986f",
+        "energy": "0xf4240",
+        "energyPrice": "0x1",
+        "value": "0x0",
+        "data": "0x6080604052348015600f57600080fd5b506001600055607d806100236000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c8063da34ac2114602d575b600080fd5b603560005481565b60405190815260200160405180910390f3fea26469706673582212204993666021bc21efd401d71451bdda2795e744a1c0b7817306c5298cea57c23864736f6c63430101020033",
+        "nonce": "0x1"
+      },
+      "additionalContracts": [],
+      "isFixedEnergyLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1772091852,
+  "network": "devin",
+  "multi": false,
+  "commit": "55f3fb6"
+}
